@@ -1,0 +1,27 @@
+Program Assignment ”GuessaTron”
+
+Write a program that will guess the users number using divide and conquer. Your program should ask the user to think of a number between 1 and 100 use a loop and decrease the number by half of the original based on what the user says. Based on the response the program should make another guess. The program should continue to guess until the correct number is reached."
+
+You program should start out with
+“Welcome to “GuessaTron” the smartest computer program in the world. Just to show you how smart I am, I am going to guess the number you chose as long as it is between 1 and 100.
+
+You will think I am reading your mind.”
+
+Example Action:
+Using the following keys!
+L for lower
+H for higher
+Q for quit!
+Press any key to start =>
+“start”
+Think of a number between 1-100,
+Computer says 50. Is your number higher or lower?
+Lower
+Computer says 25. Is your number higher or lower?
+Higher
+Computer says 35. Is your number higher or lower?
+Lower
+Computer says 30. Is your number higher or lower?
+Lower
+Computer says 27. Is your number higher or lower?
+That It?
